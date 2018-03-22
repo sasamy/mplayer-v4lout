@@ -1,5 +1,5 @@
 # mplayer-v4lout
-Mplayer video output driver for v4l2 output devices
+Mplayer video output driver for v4l2 output devices to use the hardware capabilities of the processor to scale and color space conversion 
 
 ## How to add this driver to mplayer
 
